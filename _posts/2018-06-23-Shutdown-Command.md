@@ -18,13 +18,13 @@ Various useful shutdown commands are :
   
 * Shutting down the computer
 
-``` csharp
+``` 
 shutdown -s
 ```
 
 * Forcefully Shutting down the computer
 
-``` csharp
+``` 
 shutdown -s -f
 ```
 
@@ -32,7 +32,7 @@ _Note: You will lose any unsaved data_
 
 * Setting a timer to Shutdown
 
-``` csharp
+``` 
 shutdown -s -t 60
 ```
 
@@ -43,13 +43,13 @@ Just run the command : `shutdown -s -f -t <<time-left * 60>>`
 
 * Logging off
 
-``` csharp
+``` 
 shutdown -l
 ```
 
 * Aborting a shutdown
 
-``` csharp
+``` 
 shutdown -a
 ```
 
