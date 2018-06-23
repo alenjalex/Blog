@@ -11,7 +11,7 @@ We always use the _Start Menu_ for shutting down. What if we could run a command
 
 Its as simple as running the command `shutdown`.  
 
-The `shutdown` command comes with support for multiple support. If you just execute the command `shutdown`, it will display the help menu for the command.
+The `shutdown` command comes with support for multiple parameters. If you just execute the command `shutdown`, it will display the help menu for the command.
 
 Various useful shutdown commands are :
 
