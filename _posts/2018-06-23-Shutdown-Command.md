@@ -22,6 +22,8 @@ Various useful shutdown commands are :
 shutdown -s
 ```
 
+-------------------------
+
 * Forcefully Shutting down the computer
 
 ``` 
@@ -29,6 +31,8 @@ shutdown -s -f
 ```
 
 _Note: You will lose any unsaved data_
+
+-------------------------
 
 * Setting a timer to Shutdown
 
@@ -41,16 +45,22 @@ _Note: The time is specified in seconds. If not specified, the default time is 3
 This is helpful if you are watching a video and is not sure if you would have fallen asleep by the end of the video.  
 Just run the command : `shutdown -s -f -t <<time-left * 60>>`
 
+-------------------------
+
 * Logging off
 
 ``` 
 shutdown -l
 ```
 
+-------------------------
+
 * Aborting a shutdown
 
 ``` 
 shutdown -a
 ```
+
+-------------------------
 
 > Reference : [Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown)
