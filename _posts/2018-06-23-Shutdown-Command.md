@@ -13,6 +13,8 @@ Its as simple as running the command `shutdown`.
 
 The `shutdown` command comes with support for multiple parameters. If you just execute the command `shutdown`, it will display the help menu for the command.
 
+You could run it either from `Command Prompt` or `Run (WinKey + R)` or `Powershell`.
+
 Various useful shutdown commands are :
 
   
